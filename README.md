@@ -1,0 +1,1 @@
+Hoy vi como se puede hacer que una pagina web se pueda ajustar al ancho de cualquier dispositivo electrico y como hacerlo paso a paso gracias a que toca copiar todo el codigo a mano
